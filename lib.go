@@ -1,4 +1,4 @@
-import testlib2
+package testlib2
 
 import "github.com/katutoshi/go-test/"
 
